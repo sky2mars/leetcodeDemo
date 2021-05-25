@@ -1,4 +1,4 @@
-package May2020.twoSum2;
+package May2020.twoSum1;
 
 import java.util.Arrays;
 
